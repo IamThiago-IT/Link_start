@@ -6,3 +6,4 @@
 - http://br.phptherightway.com/
 - https://css-tricks.com/
 - https://br.vuejs.org/
+- http://www.golangbr.org/
