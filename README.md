@@ -7,3 +7,4 @@
 - https://css-tricks.com/
 - https://br.vuejs.org/
 - http://www.golangbr.org/
+- https://br.wordpress.org/
