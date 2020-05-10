@@ -7,9 +7,14 @@ https://pt-br.reactjs.org/
 ```
 
 ## python
+```
 - https://python.org.br/
+```
 
+## PHP
+```
 - https://www.php.net/manual/pt_BR/
+```
 
 - http://br.phptherightway.com/
 
