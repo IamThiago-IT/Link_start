@@ -24,7 +24,9 @@ https://pt-br.reactjs.org/
 - https://css-tricks.com/
 ```
 
+```
 - https://br.vuejs.org/
+```
 
 - http://www.golangbr.org/
 
