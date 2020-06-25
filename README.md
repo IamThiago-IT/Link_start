@@ -47,3 +47,7 @@ https://pt-br.reactjs.org/
 ```
 ## Laravel
 ## Sass
+## Medium
+```
+https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonitão-c85c8f154f8
+```
