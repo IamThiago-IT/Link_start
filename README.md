@@ -6,7 +6,7 @@ Vários links
 
 ## Org's de Tecnologia 💻 
 
-[ReactJS](https://pt-br.reactjs.org/
+[ReactJS](https://pt-br.reactjs.org/)
 
 
 ## python
