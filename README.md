@@ -4,10 +4,10 @@ Estudos de tecnologia
 # Cursos de tecnologia com certificado
 Vários links 
 
-## React JS
-```
-https://pt-br.reactjs.org/
-```
+## Org's de Tecnologia 💻 
+
+[ReactJS](https://pt-br.reactjs.org/
+
 
 ## python
 ```
