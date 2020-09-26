@@ -1,5 +1,7 @@
-< 📜 >
-Estudos de tecnologia
+<h1 align="center">
+    < 📜 > <br>
+    Estudos de tecnologia
+</h1>
 
 # Cursos de tecnologia com certificado
 Vários links 
