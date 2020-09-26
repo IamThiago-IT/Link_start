@@ -10,14 +10,11 @@
 ## Org's de Tecnologia 💻 
 
 [ReactJS](https://pt-br.reactjs.org/)
-pythonhttps://python.org.br/
+[Python](pythonhttps://python.org.br/)
 
 [PHP](https://www.php.net/manual/pt_BR/)
-<p>
-[PHP BR](http://br.phptherightway.com/)
-
-css
-https://css-tricks.com/
+[PHPBR](http://br.phptherightway.com/)
+[css](https://css-tricks.com/)
 
 Vue
 https://br.vuejs.org/
