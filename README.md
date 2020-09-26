@@ -12,9 +12,8 @@
 [ReactJS](https://pt-br.reactjs.org/)
 pythonhttps://python.org.br/
 
-PHP
-https://www.php.net/manual/pt_BR/
-http://br.phptherightway.com/
+[PHP](https://www.php.net/manual/pt_BR/)
+[PHP BR](http://br.phptherightway.com/)
 
 css
 https://css-tricks.com/
