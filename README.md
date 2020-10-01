@@ -9,9 +9,9 @@
 
 ## Org's de Tecnologia 💻 
 
--[ReactJS](https://pt-br.reactjs.org/)
--[Python](pythonhttps://python.org.br/)
--[PHP](https://www.php.net/manual/pt_BR/)
+- [ReactJS](https://pt-br.reactjs.org/)
+- [Python](pythonhttps://python.org.br/)
+- [PHP](https://www.php.net/manual/pt_BR/)
 -[PHPBR](http://br.phptherightway.com/)
 -[css](https://css-tricks.com/)
 -[Vue](https://br.vuejs.org/)
