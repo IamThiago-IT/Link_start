@@ -15,9 +15,7 @@
 -[PHPBR](http://br.phptherightway.com/)
 -[css](https://css-tricks.com/)
 -[Vue](https://br.vuejs.org/)
-
-Golangbr
-http://www.golangbr.org/
+-[Golangbr](http://www.golangbr.org/)
 
 Wordpress
 - https://br.wordpress.org/
