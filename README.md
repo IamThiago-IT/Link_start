@@ -4,6 +4,7 @@
 </h1>
 
 # Cursos de tecnologia com certificado
+[Rocketseat]()
 
 
 
@@ -22,10 +23,7 @@ Bootstrap
 https://getbootstrap.com/2.3.2/components.html
 
 
-## Rocketseat
-```
-- https://blog.rocketseat.com.br/
-```
+https://blog.rocketseat.com.br/
 ```
 - http://prototypejs.org/
 ```
