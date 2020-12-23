@@ -12,7 +12,7 @@
 
 - [ReactJS](https://pt-br.reactjs.org/)
 - [PHP](https://www.php.net/manual/pt_BR/)
--[PHPBR](http://br.phptherightway.com/)
+- [PHPBR](http://br.phptherightway.com/)
 -[css](https://css-tricks.com/)
 -[Vue](https://br.vuejs.org/)
 - [Golangbr](http://www.golangbr.org/)
