@@ -18,7 +18,7 @@
 - [Golangbr](http://www.golangbr.org/)
 - [Python](https://python.org.br/)
 - [Wordpress](https://br.wordpress.org/)
-[Laravel]()
+-[Laravel]()
 ---------------------------------
 Bootstrap
 https://getbootstrap.com/2.3.2/components.html
