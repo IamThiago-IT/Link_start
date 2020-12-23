@@ -28,7 +28,6 @@ https://blog.rocketseat.com.br/
 ```
 - http://prototypejs.org/
 ```
-## Laravel
 ## Sass
 ## Medium
 ```
