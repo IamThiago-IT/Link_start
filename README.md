@@ -24,7 +24,7 @@
 Bootstrap
 https://getbootstrap.com/2.3.2/components.html
 
-
+ 
 https://blog.rocketseat.com.br/
 ```
 - http://prototypejs.org/
@@ -32,6 +32,6 @@ https://blog.rocketseat.com.br/
 ## 
 ## Medium
 ```
-{como-fazer-um-readme-md}https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonitão-c85c8f154f8
+[como-fazer-um-readme-md](https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonitão-c85c8f154f8)
 ```
 # Apps 
