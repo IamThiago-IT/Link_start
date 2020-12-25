@@ -31,6 +31,6 @@ https://blog.rocketseat.com.br/
 ```
 ## 
 ## Medium
-[Como fazernum readme.md](https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonitão-c85c8f154f8)
+[Como fazern um readme.md](https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonitão-c85c8f154f8)
 
 # Apps 
