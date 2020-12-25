@@ -29,7 +29,7 @@ https://blog.rocketseat.com.br/
 ```
 - http://prototypejs.org/
 ```
-## 
+## GitHub 
 ## Medium
 [Como fazern um readme.md](https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonitão-c85c8f154f8)
 
