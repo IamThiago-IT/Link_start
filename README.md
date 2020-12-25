@@ -20,9 +20,10 @@
 - [Wordpress](https://br.wordpress.org/)
 - [Laravel]()
 - [Sass]()
+Bootstrap(https://getbootstrap.com/2.3.2/components.html
+)
 ---------------------------------
-Bootstrap
-https://getbootstrap.com/2.3.2/components.html
+
 
  
 https://blog.rocketseat.com.br/
