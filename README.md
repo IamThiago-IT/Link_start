@@ -3,7 +3,7 @@
     Estudos de tecnologia
 </h1>
 
-# Cursos de tecnologia com certificado
+# Cursos de tecnologia
 [Rocketseat]()
 
 # Cursos de tecnologia com certificado
