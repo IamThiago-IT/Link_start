@@ -36,3 +36,4 @@ https://blog.rocketseat.com.br/
 
 # Apps 
 Notion
+Xmind
