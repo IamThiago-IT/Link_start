@@ -6,6 +6,7 @@
 # Cursos de tecnologia
 [Rocketseat]()
 
+
 # Cursos de tecnologia com certificado
 [Rocketseat]()
 
