@@ -5,18 +5,18 @@
 
 # Cursos de tecnologia
 [Rocketseat]()
-
-
-
-
-
- 
-
+[Udemy]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
 
 # Cursos de tecnologia com certificado
 [Rocketseat]()
-
-
+[]()
+[]()
 
 ## Org's de Tecnologia 💻 
 
@@ -34,7 +34,7 @@
 )
 - [Typescript]()
 - [Electron]()
-- 
+- [Angular]()
 ---------------------------------
 
 # Blogs 
