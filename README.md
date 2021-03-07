@@ -49,7 +49,9 @@ https://blog.rocketseat.com.br/
 
 # Apps 
 - ## Notion
+   - Pode ser usado para tudo.
 - ## Xmind
+   - Mapas mentais
 - ## Forest
 - ## Trello
 - ## Focus To-Do
