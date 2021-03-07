@@ -42,7 +42,8 @@ https://blog.rocketseat.com.br/
 ```
 - http://prototypejs.org/
 ```
-## GitHub 
+## GitHub
+## Post's
 ## Medium
 [Como fazern um readme.md](https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonitão-c85c8f154f8)<br>
 [Badges no GitHub](https://medium.com/@thiagoloureiro/badges-no-github-bf8289496c7d)
@@ -53,5 +54,8 @@ https://blog.rocketseat.com.br/
 - ## Xmind
    - Mapas mentais
 - ## Forest
+    - Foco, eliminar distrações
 - ## Trello
+    - Gerenciador de tarefas "Kanban" 
 - ## Focus To-Do
+    - Ciclos  Pomodoro
