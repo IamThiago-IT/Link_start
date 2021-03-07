@@ -48,8 +48,8 @@ https://blog.rocketseat.com.br/
 [Badges no GitHub](https://medium.com/@thiagoloureiro/badges-no-github-bf8289496c7d)
 
 # Apps 
-- Notion
-- Xmind
-- Forest
-- Trello
-- Focus To-Do
+- ## Notion
+- ## Xmind
+- ## Forest
+- ## Trello
+- ## Focus To-Do
