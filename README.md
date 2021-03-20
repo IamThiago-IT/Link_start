@@ -4,8 +4,8 @@
 </h1>
 
 # Cursos de tecnologia
-[Rocketseat]()
-[Udemy]()
+- [Rocketseat]()
+- [Udemy]()
 []()
 []()
 []()
