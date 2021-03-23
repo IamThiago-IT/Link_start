@@ -56,6 +56,7 @@
 - [Typescript]()
 - [Electron]()
 - [Angular]()
+- [flutter](https://flutter.dev)
 ---------------------------------
 
 # Blogs 
