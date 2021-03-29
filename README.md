@@ -50,7 +50,7 @@
 - [Python](https://python.org.br/)
 - [Wordpress](https://br.wordpress.org/)
 - [Laravel](https://laravel.com)
-- [Sass]()
+- [Sass](https://sass-lang.com)
 - [Bootstrap](https://getbootstrap.com/2.3.2/components.html
 )
 - [Typescript]()
