@@ -49,7 +49,7 @@
 - [Golangbr](http://www.golangbr.org/)
 - [Python](https://python.org.br/)
 - [Wordpress](https://br.wordpress.org/)
-- [Laravel]()
+- [Laravel](https://laravel.com)
 - [Sass]()
 - [Bootstrap](https://getbootstrap.com/2.3.2/components.html
 )
