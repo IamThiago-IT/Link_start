@@ -17,7 +17,6 @@
 - [Rocketseat]()
 - [Udemy]()
 []()
-[]()
 
 
 ## Org's de Tecnologia 💻 
