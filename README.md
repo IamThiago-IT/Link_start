@@ -18,7 +18,6 @@
 - [Udemy]()
 []()
 []()
-[]()
 
 
 ## Org's de Tecnologia 💻 
