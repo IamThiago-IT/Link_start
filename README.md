@@ -7,11 +7,11 @@
 - [Rocketseat]()
 - [Udemy]()
 - [DIO]()
-       
+      
 
 # Cursos de tecnologia com certificado
 - [Rocketseat]()
-- [Udemy]()
+- [Udemy]()re
 
 
 ## Org's de Tecnologia 💻 
