@@ -11,7 +11,7 @@
 
 # Cursos de tecnologia com certificado
 - [Rocketseat]()
-- [Udemy]()re
+- [Udemy]()
 
 
 ## Org's de Tecnologia 💻 
