@@ -16,7 +16,6 @@
 
 ## Org's de Tecnologia 💻 
 
-
 - [ReactJS](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev)
 - [PHP](https://www.php.net/manual/pt_BR/)
