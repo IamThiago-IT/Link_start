@@ -45,7 +45,6 @@ https://blog.rocketseat.com.br/
    []()
    []()
    []()
-   []() 
     
 ## Post's
 ## Medium
