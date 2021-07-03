@@ -8,7 +8,6 @@
 - [Udemy]()
 - [DIO]()
     
-
 # Cursos de tecnologia com certificado
 - [Rocketseat]()
 - [Udemy]()
