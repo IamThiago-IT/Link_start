@@ -34,7 +34,6 @@
 - [CoffeeScript](https://coffeescript.org)
 - [Miragejs](https://miragejs.com)
 ---------------------------------
-
 # Blogs 
 https://blog.rocketseat.com.br/
 ```
