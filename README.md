@@ -6,7 +6,7 @@
 # Cursos de tecnologia
 - [Rocketseat]()
 - [Udemy]()
-- [DI
+
     
 # Cursos de tecnologia com certificado
 - [Rocketseat]()
