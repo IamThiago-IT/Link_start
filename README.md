@@ -38,8 +38,8 @@ https://blog.rocketseat.com.br/
 ```
 - http://prototypejs.org/
 ```
-## GitHub
-   []()
+## Links
+   [TypeHero](https://typehero.dev)
    []()
     
 ## Post's
