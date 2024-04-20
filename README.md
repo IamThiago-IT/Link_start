@@ -40,7 +40,7 @@ https://blog.rocketseat.com.br/
 ```
 ## Links
    [TypeHero](https://typehero.dev)
-   []()
+   [Mermaid](https://mermaid.js.org/)
     
 ## Post's
     []()
