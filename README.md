@@ -24,8 +24,7 @@
 - [Wordpress](https://br.wordpress.org/)
 - [Laravel](https://laravel.com)
 - [Sass](https://sass-lang.com)
-- [Bootstrap](https://getbootstrap.com/2.3.2/components.html
-)
+- [Bootstrap](https://getbootstrap.com/2.3.2/components.html)
 - [Typescript]()
 - [Electron]()
 - [Angular]()
@@ -51,7 +50,7 @@ https://blog.rocketseat.com.br/
 [Badges no GitHub](https://medium.com/@thiagoloureiro/badges-no-github-bf8289496c7d)
 
 # IDEs  
-    [VSCode Web](https://vscode.dev/)
+-  [VSCode Web](https://vscode.dev/)
 # Apps 
 - ## Notion
    - Pode ser usado para tudo.
