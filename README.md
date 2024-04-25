@@ -39,8 +39,9 @@ https://blog.rocketseat.com.br/
 - http://prototypejs.org/
 ```
 ## Links
-   [TypeHero](https://typehero.dev)
-   [Mermaid](https://mermaid.js.org/)
+- [TypeHero](https://typehero.dev)
+- [Mermaid](https://mermaid.js.org/)
+- [LocalCan](localcan.com)
     
 ## Post's
     []()
