@@ -51,7 +51,7 @@ https://blog.rocketseat.com.br/
 [Badges no GitHub](https://medium.com/@thiagoloureiro/badges-no-github-bf8289496c7d)
 
 # IDEs  
-    [VSCode]()
+    [VSCode Web](https://vscode.dev/)
 # Apps 
 - ## Notion
    - Pode ser usado para tudo.
