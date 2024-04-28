@@ -41,7 +41,7 @@ https://blog.rocketseat.com.br/
 ## Links
 - [TypeHero](https://typehero.dev)
 - [Mermaid](https://mermaid.js.org/)
-- [LocalCan](localcan.com)
+- [LocalCan](https://localcan.com)
 - [Serverless](https://www.serverless.com/)
     
 ## Post's
