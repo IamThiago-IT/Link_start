@@ -34,7 +34,7 @@
 - [ESLint](https://eslint.org/docs/latest/use/core-concepts/glossary)
 ---------------------------------
 # Blogs 
-https://blog.rocketseat.com.br/
+[Rocketseat | Blog](https://blog.rocketseat.com.br/)
 ```
 - http://prototypejs.org/
 ```
@@ -56,6 +56,7 @@ https://blog.rocketseat.com.br/
 
 # IDEs  
 -  [VSCode Web](https://vscode.dev/)
+-  [Replit]()
 # Apps 
 - ## Notion
    - Pode ser usado para tudo.
