@@ -44,7 +44,13 @@
 - [Serverless](https://www.serverless.com/)
 - [WebHooks Cool](https://webhook.cool/at/strong-afternoon-17)
 - [Figma]()
-    
+
+## vagas
+    []()
+## Praticar para as entrevistas
+[Leetcode]()
+
+[codesignal]()
 ## Post's
     []()
 ## Medium
