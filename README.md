@@ -44,8 +44,8 @@
 - [Figma]()
 - [React Native IDE](https://ide.swmansion.com/)
 
-## vagas
-    []()
+## Criação de curriculo 
+    [HackerRank Resume](https://www.hackerrank.com/resume/dashboard)
 ## Praticar para as entrevistas
 [Leetcode]()
 
