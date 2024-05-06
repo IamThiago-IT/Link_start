@@ -12,10 +12,8 @@
 - [Udemy]()
 
 ## Org's de Tecnologia 💻 
-- [ReactJS](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev)
-- [PHP](https://www.php.net/manual/pt_BR/)
-- [PHPBR](http://br.phptherightway.com/)
+- [React](https://pt-br.reactjs.org/) | [Native](https://reactnative.dev)
+- [PHP](https://www.php.net/manual/pt_BR/) | [PHP BR](http://br.phptherightway.com/)
 - [css](https://css-tricks.com/)
 - [Vue](https://br.vuejs.org/)
 - [Golangbr](http://www.golangbr.org/)
