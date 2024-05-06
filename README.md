@@ -21,7 +21,7 @@
 - [Wordpress](https://br.wordpress.org/)
 - [Laravel](https://laravel.com)
 - [Sass](https://sass-lang.com)
-- [Bootstrap](https://getbootstrap.com/2.3.2/components.html)
+- [Bootstrap](https://getbootstrap.com/)
 - [Typescript]()
 - [Electron]()
 - [Angular]()
