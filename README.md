@@ -70,12 +70,7 @@
 -  [Gitpod](https://gitpod.io/workspaces)
 # Apps 
 - ## Notion
-   - Pode ser usado para tudo.
 - ## Xmind
-   - Mapas mentais
 - ## Forest
-    - Foco, eliminar distrações
 - ## Trello
-    - Gerenciador de tarefas "Kanban" 
 - ## Focus To-Do
-    - Ciclos  Pomodoro
