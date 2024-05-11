@@ -66,7 +66,7 @@
 
 # IDEs  
 -  [VSCode Web](https://vscode.dev/)
--  [Replit]()
+-  [Replit](https://replit.com/)
 -  [Gitpod](https://gitpod.io/workspaces)
 # Apps 
 - ## Notion
