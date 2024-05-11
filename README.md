@@ -52,7 +52,7 @@
 
 [codesignal]()
 
-[Great FrontEnd]https://www.greatfrontend.com/pt-BR)
+[Great FrontEnd](https://www.greatfrontend.com/pt-BR)
 ## Post's
     []()
 ## Medium
