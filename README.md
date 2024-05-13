@@ -69,7 +69,7 @@
 -  [Replit](https://replit.com/)
 -  [Gitpod](https://gitpod.io/workspaces)
 # Apps 
-- ## Notion
+-  [Notion](https://www.notion.so/)
 - ## Xmind
 - ## Forest
 - ## Trello
