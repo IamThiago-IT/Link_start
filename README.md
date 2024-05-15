@@ -64,7 +64,8 @@
 [System Design Primer](https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/mint/README.md)
 ## Config
  [Typescript | tsconfig](https://github.com/microsoft/TypeScript/wiki/Node-Target-Mapping)
-
+## Docs API
+[Scalar](https://scalar.com/#description/markdown-support)
 # IDEs  
 -  [VSCode Web](https://vscode.dev/)
 -  [Replit](https://replit.com/)
