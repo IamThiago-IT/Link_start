@@ -53,8 +53,8 @@
 [codesignal]()
 
 [Great FrontEnd](https://www.greatfrontend.com/pt-BR)
-## Post's
-    []()
+## Artigos
+    [sindrome-do-impostor-superando-erros-de-pensamento](https://www.tabnews.com.br/filipeleonelbatista/sindrome-do-impostor-superando-erros-de-pensamento)
     
 ## Medium
 [Como fazern um readme.md](https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonitão-c85c8f154f8)<br>
