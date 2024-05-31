@@ -33,9 +33,9 @@
 ---------------------------------
 # Blogs 
 [Rocketseat | Blog](https://blog.rocketseat.com.br/)
-```
-- http://prototypejs.org/
-```
+
+[prototypejs](http://prototypejs.org/)
+
 ## Links
 - [TypeHero](https://typehero.dev)
 - [Mermaid](https://mermaid.js.org/)
