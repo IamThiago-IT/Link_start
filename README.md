@@ -66,7 +66,13 @@
  [Typescript | tsconfig](https://github.com/microsoft/TypeScript/wiki/Node-Target-Mapping)
 ## Docs API
 [Scalar](https://scalar.com/#description/markdown-support)
+
+# Styles
+[chakra](https://v2.chakra-ui.com/)
+
 # IDEs  
+
+
 -  [VSCode Web](https://vscode.dev/)
 -  [Replit](https://replit.com/)
 -  [Gitpod](https://gitpod.io/workspaces)
