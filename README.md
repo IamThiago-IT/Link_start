@@ -69,6 +69,7 @@
 
 # Styles
 [chakra](https://v2.chakra-ui.com/)
+[Tailwindcss](https://tailwindcss.com)
 
 # IDEs  
 
