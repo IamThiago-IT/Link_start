@@ -71,6 +71,8 @@
 [chakra](https://v2.chakra-ui.com/)
 [Tailwindcss](https://tailwindcss.com)
 
+# Mail's
+[React Mail](https://react.email/docs/introduction)
 # IDEs  
 
 
