@@ -34,7 +34,7 @@
 ---------------------------------
 # Blogs 
 [Rocketseat | Blog](https://blog.rocketseat.com.br/)
-
+[DEV.to](https://dev.to/)
 
 
 ## Links
