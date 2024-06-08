@@ -30,11 +30,12 @@
 - [CoffeeScript](https://coffeescript.org)
 - [Miragejs](https://miragejs.com)
 - [ESLint](https://eslint.org/docs/latest/use/core-concepts/glossary)
+- [prototypejs](http://prototypejs.org/)
 ---------------------------------
 # Blogs 
 [Rocketseat | Blog](https://blog.rocketseat.com.br/)
 
-[prototypejs](http://prototypejs.org/)
+
 
 ## Links
 - [TypeHero](https://typehero.dev)
