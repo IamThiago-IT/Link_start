@@ -74,6 +74,10 @@
 
 # Mail's
 [React Mail](https://react.email/docs/introduction)
+
+# Translate
+[Next Intl](https://next-intl-docs.vercel.app/)
+
 # IDEs  
 
 
