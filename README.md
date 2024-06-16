@@ -79,13 +79,12 @@
 [Next Intl](https://next-intl-docs.vercel.app/)
 
 # IDEs  
-
-
 -  [VSCode Web](https://vscode.dev/)
 -  [Replit](https://replit.com/)
 -  [Gitpod](https://gitpod.io/workspaces)
 -  [CodeSandBox](https://codesandbox.io/)
 -  [StackBlitz](https://stackblitz.com/)
+-  [Querybook](https://www.querybook.org/)
 # Apps 
 -  [Notion](https://www.notion.so/)
 - ## Xmind
