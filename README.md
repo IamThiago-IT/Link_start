@@ -45,6 +45,7 @@
 - [WebHooks Cool](https://webhook.cool/at/strong-afternoon-17)
 - [Figma]()
 - [React Native IDE](https://ide.swmansion.com/)
+- [uploadthing](https://uploadthing.com/)
 
 ## Criação de curriculo 
 [HackerRank Resume](https://www.hackerrank.com/resume/dashboard)
