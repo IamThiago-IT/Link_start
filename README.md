@@ -50,11 +50,10 @@
 ## Criação de curriculo 
 [HackerRank Resume](https://www.hackerrank.com/resume/dashboard)
 ## Praticar para as entrevistas
-[Leetcode]()
-
-[codesignal]()
-
-[Great FrontEnd](https://www.greatfrontend.com/pt-BR)
+- [Leetcode]()
+- [codesignal]()
+- [stratascratch](https://www.stratascratch.com/)
+- [Great FrontEnd](https://www.greatfrontend.com/pt-BR)
 ## Artigos
 [sindrome-do-impostor-superando-erros-de-pensamento](https://www.tabnews.com.br/filipeleonelbatista/sindrome-do-impostor-superando-erros-de-pensamento)
     
