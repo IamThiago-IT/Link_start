@@ -46,6 +46,8 @@
 - [Figma]()
 - [React Native IDE](https://ide.swmansion.com/)
 - [uploadthing](https://uploadthing.com/)
+- [Algorithms](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+
 
 ## Criação de curriculo 
 [HackerRank Resume](https://www.hackerrank.com/resume/dashboard)
