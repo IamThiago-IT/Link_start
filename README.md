@@ -47,6 +47,7 @@
 - [React Native IDE](https://ide.swmansion.com/)
 - [uploadthing](https://uploadthing.com/)
 - [Algorithms](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [GitFluence](https://www.gitfluence.com/)
 
 
 ## Criação de curriculo 
