@@ -75,6 +75,7 @@
 # Styles
 [chakra](https://v2.chakra-ui.com/)
 [Tailwindcss](https://tailwindcss.com)
+[Gluestack](https://gluestack.io/)
 
 # Mail's
 [React Mail](https://react.email/docs/introduction)
