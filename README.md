@@ -23,7 +23,7 @@
 - [Laravel](https://laravel.com)
 - [Sass](https://sass-lang.com)
 - [Bootstrap](https://getbootstrap.com/)
-- [Typescript]()
+- [Typescript](https://www.typescriptlang.org/)
 - [Electron]()
 - [Angular]()
 - [flutter](https://flutter.dev)
