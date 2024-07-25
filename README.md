@@ -5,7 +5,7 @@
 
 # Cursos de tecnologia
 - [Rocketseat]()
-- [Udemy]()
+- [Udemy](https://www.udemy.com/pt/)
 - [Meu Curso | *Valor Simbolico*]()
 
 # Cursos de tecnologia com certificado
