@@ -89,6 +89,8 @@
 
 # Edição de audio
 [Bandlab](https://www.bandlab.com/feed/trending)
+[Moises](https://studio.moises.ai/library/)
+
 # IDEs  
 -  [VSCode Web](https://vscode.dev/)
 -  [Replit](https://replit.com/)
