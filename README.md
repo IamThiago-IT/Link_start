@@ -94,6 +94,9 @@
 # SO
 [Rufus](https://rufus.ie/pt_BR/)
 
+# Docs API
+[Scalar](https://docs.scalar.com/project-default/version-default/guide-default/page-default)
+
 # IDEs  
 -  [VSCode Web](https://vscode.dev/)
 -  [Replit](https://replit.com/)
