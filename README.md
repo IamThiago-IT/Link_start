@@ -118,3 +118,4 @@
 - [Test English](https://test-english.com/)
 - [Livekit](https://kitt.livekit.io/)
 - [Busuu](https://www.busuu.com/)
+- [Duolingo](https://www.duolingo.com)
