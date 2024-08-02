@@ -59,6 +59,7 @@
 - [codesignal]()
 - [stratascratch](https://www.stratascratch.com/)
 - [Great FrontEnd](https://www.greatfrontend.com/pt-BR)
+- [ResumeGo](https://www.resumego.net/)
 ## Artigos
 [sindrome-do-impostor-superando-erros-de-pensamento](https://www.tabnews.com.br/filipeleonelbatista/sindrome-do-impostor-superando-erros-de-pensamento)
     
