@@ -60,6 +60,9 @@
 - [stratascratch](https://www.stratascratch.com/)
 - [Great FrontEnd](https://www.greatfrontend.com/pt-BR)
 - [ResumeGo](https://www.resumego.net/)
+
+## Ai
+- [Typebot](https://app.typebot.io)
 ## Artigos
 [sindrome-do-impostor-superando-erros-de-pensamento](https://www.tabnews.com.br/filipeleonelbatista/sindrome-do-impostor-superando-erros-de-pensamento)
     
