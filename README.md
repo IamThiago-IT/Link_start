@@ -12,6 +12,7 @@
 - [Rocketseat]()
 - [Udemy]()
 
+
 ## Org's de Tecnologia 💻 
 - [React](https://pt-br.reactjs.org/) | [Native](https://reactnative.dev)
 - [PHP](https://www.php.net/manual/pt_BR/) | [PHP BR](http://br.phptherightway.com/)
