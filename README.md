@@ -85,6 +85,9 @@
 [Gluestack](https://gluestack.io/)
 [Mobbin](https://mobbin.com/browse)
 
+# database
+- [Postgres AI](https://postgres.new/)
+
 # Mail's
 [React Mail](https://react.email/docs/introduction)
 
