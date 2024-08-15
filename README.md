@@ -120,6 +120,11 @@
 
 # Imagens
 - [Freepik]()
+
+# All in One
+- [SmallPDF](https://smallpdf.com/pt#r=app)
+
+
 # Apps 
 -  [Notion](https://www.notion.so/)
 - ## Xmind
