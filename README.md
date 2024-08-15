@@ -85,6 +85,9 @@
 [Gluestack](https://gluestack.io/)
 [Mobbin](https://mobbin.com/browse)
 
+# Fonts
+[Google Fonts](https://fonts.google.com/)
+
 # database
 - [Postgres AI](https://postgres.new/)
 
