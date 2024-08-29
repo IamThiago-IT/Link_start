@@ -70,6 +70,7 @@
   - [Semantic UI](https://semantic-ui.com/)
   - [Gluestack](https://gluestack.io/)
   - [Mobbin](https://mobbin.com/browse)
+  - [Sonner](https://sonner.emilkowal.ski/)
 
 - **Ferramentas e Configuração**
   - [ESLint](https://eslint.org/docs/latest/use/core-concepts/glossary)
