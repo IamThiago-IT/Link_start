@@ -81,6 +81,7 @@
   - [Rollup](https://rollupjs.org/)
   - [TypeScript | tsconfig](https://github.com/microsoft/TypeScript/wiki/Node-Target-Mapping)
   - [PLayWright](https://playwright.dev/)
+  - [MSWJS](https://mswjs.io/)
 
 ## 📝 Blogs e Artigos
 - [Rocketseat Blog](https://blog.rocketseat.com.br/)
