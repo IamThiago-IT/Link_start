@@ -116,7 +116,7 @@
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 - [GitFluence](https://www.gitfluence.com/)
 - [Cheatsheets](https://cheatsheets.zip/)
-- [Rabbithook](http://www.rabbithook.com.br
+- [Rabbithook](http://www.rabbithook.com.br)
 -[Excalidraw](https://excalidraw.com/)
 
 ## 📂 Repositórios e Documentação
