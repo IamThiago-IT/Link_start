@@ -165,9 +165,7 @@
 - [React Mail](https://react.email/docs/introduction)
 - [Mailchimp](https://mailchimp.com/)
 - [SendGrid](https://sendgrid.com/)
-- [
-
-Next Intl](https://next-intl-docs.vercel.app/)
+- [Next Intl](https://next-intl-docs.vercel.app/)
 - [Mailjet](https://www.mailjet.com/)
 
 ## 🎵 Edição de Áudio
