@@ -117,7 +117,8 @@
 - [GitFluence](https://www.gitfluence.com/)
 - [Cheatsheets](https://cheatsheets.zip/)
 - [Rabbithook](http://www.rabbithook.com.br)
--[Excalidraw](https://excalidraw.com/)
+- [Excalidraw](https://excalidraw.com/)
+- [Podcasters](https://podcasters.spotify.com/)
 
 ## 📂 Repositórios e Documentação
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
