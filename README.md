@@ -119,6 +119,11 @@
 - [Rabbithook](http://www.rabbithook.com.br)
 - [Excalidraw](https://excalidraw.com/)
 - [Podcasters](https://podcasters.spotify.com/)
+- **Plataformas de Hospedagem e Infraestrutura**
+  - [Neon](https://neon.tech/)
+  - [Hetzner](https://www.hetzner.com/)
+  - [Latitude.sh](https://www.latitude.sh/)
+  - [Clever Cloud](https://www.clever-cloud.com/)
 
 ## 📂 Repositórios e Documentação
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
@@ -155,71 +160,102 @@
 - [Font Awesome](https://fontawesome.com/)
 - [Material Icons](https://material.io/resources/icons/)
 - [Heroicons](https://heroicons.com/)
-- [Lucide Icons](https://lucide.dev/)
+- [Phosphor Icons](https://phosphoricons.com/)
+- [Feather Icons](https://feathericons.com/)
+- [Simple Icons](https://simpleicons.org/)
+- [Boxicons](https://boxicons.com/)
+- [Flat UI Colors](https://flatuicolors.com/)
+- [Coolors](https://coolors.co/)
+- [Color Hunt](https://colorhunt.co/)
 
-## 🗂️ Ferramentas All-in-One
-- [SmallPDF](https://smallpdf.com/pt#r=app)
-- [PDFEscape](https://www.pdfescape.com/)
-- [ILovePDF](https://www.ilovepdf.com/)
-- [Canva](https://www.canva.com/)
+## 📱 Apps Mobile
+- [Android Studio](https://developer.android.com/studio)
+- [Xcode](https://developer.apple.com/xcode/)
+- [Expo Go](https://expo.dev/tools)
+- [Gradle](https://gradle.org/)
+- [Fastlane](https://fastlane.tools/)
+- [Firebase](https://firebase.google.com/)
+- [Detox](https://wix.github.io/Detox/)
 
-## 📧 Emails e Comunicação
-- [React Mail](https://react.email/docs/introduction)
-- [Mailchimp](https://mailchimp.com/)
-- [SendGrid](https://sendgrid.com/)
-- [Next Intl](https://next-intl-docs.vercel.app/)
-- [Mailjet](https://www.mailjet.com/)
+## 💬 Comunidade
+- [Stack Overflow](https://stackoverflow.com/)
+- [Reddit](https://www.reddit.com/r/programming/)
+- [GitHub Discussions](https://github.com/)
+- [DEV.to](https://dev.to/)
+- [Hashnode](https://hashnode.com/)
+- [Medium](https://medium.com/)
+- [Quora](https://www.quora.com/)
+- [Spectrum](https://spectrum.chat/)
+- [Slack](https://slack.com/)
+- [Discord](https://discord.com/)
 
-## 🎵 Edição de Áudio
-- [Bandlab](https://www.bandlab.com/feed/trending)
-- [Moises](https://studio.moises.ai/library/)
-- [Audacity](https://www.audacityteam.org/)
-- [Soundtrap](https://www.soundtrap.com/)
+## 🚀 Plataformas de Coding
+- [LeetCode](https://leetcode.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [Codewars](https://www.codewars.com/)
+- [Exercism](https://exercism.io/)
+- [Edabit](https://edabit.com/)
+- [Coderbyte](https://coderbyte.com/)
 
-## ⚙️ Sistemas Operacionais
-- [Rufus](https://rufus.ie/pt_BR/)
-- [VirtualBox](https://www.virtualbox.org/)
-- [VMware](https://www.vmware.com/)
-- [Linux Mint](https://linuxmint.com/)
-- [Ubuntu](https://ubuntu.com/)
+## 🖥️ Tecnologias e Ferramentas
+- **IDE e Editores**
+  - [Visual Studio Code](https://code.visualstudio.com/)
+  - [Atom](https://atom.io/)
+  - [Sublime Text](https://www.sublimetext.com/)
+  - [Vim](https://www.vim.org/)
+  - [Emacs](https://www.gnu.org/software/emacs/)
+  - [Eclipse](https://www.eclipse.org/)
+  - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+  - [WebStorm](https://www.jetbrains.com/webstorm/)
+  - [PyCharm](https://www.jetbrains.com/pycharm/)
 
-## 🖥️ IDEs Online
-- [VSCode Web](https://vscode.dev/)
-- [Replit](https://replit.com/)
-- [Gitpod](https://gitpod.io/)
-- [CodeSandBox](https://codesandbox.io/)
-- [StackBlitz](https://stackblitz.com/)
-- [Glitch](https://glitch.com/)
-- [JSFiddle](https://jsfiddle.net/)
-- [Querybook](https://www.querybook.org/)
+## 🛠️ Ferramentas DevOps
+- [Docker](https://www.docker.com/)
+- [Kubernetes](https://kubernetes.io/)
+- [Terraform](https://www.terraform.io/)
+- [Ansible](https://www.ansible.com/)
+- [Jenkins](https://www.jenkins.io/)
+- [CircleCI](https://circleci.com/)
+- [Travis CI](https://travis-ci.org/)
+- [GitLab CI/CD](https://docs.gitlab.com/ee/ci/)
 
-## 🛠️ Ferramentas para Criar README
-- [Readme Generator](https://profile-readme-generator.com/)
-- [ReadMe.so](https://readme.so/)
-- [Make a README](https://www.makeareadme.com/)
-
-## 📷 Imagens
-- [Freepik](https://www.freepik.com/)
-- [Unsplash](https://unsplash.com/)
-- [Pexels](https://www.pexels.com/)
-- [Pixabay](https://pixabay.com/)
-- [IconFinder](https://www.iconfinder.com/)
-
-## 📝 Aplicativos de Produtividade
-- [Notion](https://www.notion.so/)
-- [Xmind](https://www.xmind.net/)
-- [Forest](https://www.forestapp.cc/)
-- [Trello](https://trello.com/)
-- [Focus To-Do](https://www.focustodo.cn/)
-- [Evernote](https://evernote.com/)
-- [Todoist](https://todoist.com/)
-- [Microsoft To Do](https://todo.microsoft.com/)
-
-## 🌐 Aprender Inglês
-- [Test English](https://test-english.com/)
-- [Livekit](https://kitt.livekit.io/)
-- [Busuu](https://www.busuu.com/)
-- [Duolingo](https://www.duolingo.com)
-- [BBC Learning English](https://www.bbc.co.uk/learningenglish)
-- [Cambridge English](https://www.cambridgeenglish.org/)
-- [Lingoda](https://www.lingoda.com/)
+## 🌍 Aprendizado de Inglês
+- **Cursos e Plataformas:**
+  - [Duolingo](https://www.duolingo.com/)
+  - [BBC Learning English](https://www.bbc.co.uk/learningenglish)
+  - [Memrise](https://www.memrise.com/)
+  - [Coursera - Cursos de Inglês](https://www.coursera.org/browse/language-learning/learning-english)
+  - [edX - Cursos de Inglês](https://www.edx.org/course/subject/english)
+  - [Udemy - Inglês](https://www.udemy.com/courses/search/?q=english)
+  - [ABA English](https://www.abaenglish.com/)
+  - [Rosetta Stone](https://www.rosettastone.com/)
+  - [Open English](https://www.openenglish.com/)
+  
+- **Dicionários e Ferramentas:**
+  - [Merriam-Webster](https://www.merriam-webster.com/)
+  - [Cambridge Dictionary](https://dictionary.cambridge.org/)
+  - [Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com/)
+  - [WordReference](https://www.wordreference.com/)
+  - [Linguee](https://www.linguee.com/)
+  - [Grammarly](https://www.grammarly.com/)
+  - [Reverso Context](https://context.reverso.net/translation/)
+  - [Thesaurus](https://www.thesaurus.com/)
+  
+- **Prática e Imersão:**
+  - [HelloTalk](https://www.hellotalk.com/)
+  - [Tandem](https://www.tandem.net/)
+  - [iTalki](https://www.italki.com/)
+  - [ConversationExchange](https://www.conversationexchange.com/)
+  - [English Central](https://www.englishcentral.com/)
+  - [Preply](https://preply.com/)
+  - [Cambly](https://www.cambly.com/)
+  
+- **Podcasts e Canais de YouTube:**
+  - [ESL Pod](https://www.eslpod.com/)
+  - [The English We Speak (BBC)](https://www.bbc.co.uk/programmes/p02pc9tn)
+  - [EnglishClass101](https://www.youtube.com/user/ENGLISHCLASS101)
+  - [Rachel's English](https://www.youtube.com/user/rachelsenglish)
+  - [VOA Learning English](https://learningenglish.voanews.com/)
+  - [The British Council LearnEnglish](https://learnenglish.britishcouncil.org/general-english)
+  - [Speak English With Vanessa](https://www.youtube.com/user/theteachervanessa)
+  - [RealLife English](https://www.youtube.com/user/RealLifeEnglish)
