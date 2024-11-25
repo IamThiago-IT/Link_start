@@ -10,7 +10,6 @@
 - [edX](https://www.edx.org/)
 - [Alura](https://www.alura.com.br/)
 - [Pluralsight](https://www.pluralsight.com/)
-- [Meu Curso | *Valor Simbólico*]()
 
 ## 📜 Cursos de Tecnologia com Certificado
 - [Rocketseat](https://rocketseat.com.br/)
