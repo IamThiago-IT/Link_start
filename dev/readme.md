@@ -1,3 +1,4 @@
 # Area dev
 
 Scalar 
+mintlify
