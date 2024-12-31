@@ -13,3 +13,11 @@
 ## Análise de Dados
 - [IBM Watson](https://www.ibm.com/watson)
 - [Google Cloud AI](https://cloud.google.com/products/ai)
+
+## Reconhecimento de Voz
+- [Google Speech-to-Text](https://cloud.google.com/speech-to-text)
+- [Microsoft Azure Speech](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/)
+
+## Tradução Automática
+- [DeepL Translator](https://www.deepl.com/translator)
+- [Google Translate](https://translate.google.com/)
