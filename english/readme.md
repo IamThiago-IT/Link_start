@@ -19,3 +19,23 @@
 5. **Quizlet** 📝  
    Study tools and flashcards to help you learn vocabulary.  
    [Visit Quizlet](https://quizlet.com)
+
+6. **Grammarly** ✍️  
+   Improve your writing with grammar and spell check tools.  
+   [Use Grammarly](https://www.grammarly.com)
+
+7. **Memrise** 🌱  
+   Learn English vocabulary with fun and interactive lessons.  
+   [Start Learning on Memrise](https://www.memrise.com)
+
+8. **TED Talks** 🎤  
+   Watch inspiring talks to improve your listening skills.  
+   [Watch TED Talks](https://www.ted.com/talks)
+
+9. **Khan Academy** 📚  
+   Access free courses and resources to learn English.  
+   [Explore Khan Academy](https://www.khanacademy.org)
+
+10. **Lingoda** 🏫  
+   Take online English classes with native teachers.  
+   [Join Lingoda](https://www.lingoda.com)
