@@ -1,8 +1,7 @@
 # IA
 
-# Transcrição de video para texto:
-- [restream](https://restream.io/)
+## Transcrição de Vídeo para Texto
+- [Restream](https://restream.io/)
 
-
-# Geração de Imagem:
-- [designer microsoft](https://designer.microsoft.com/)
+## Geração de Imagem
+- [Designer Microsoft](https://designer.microsoft.com/)
