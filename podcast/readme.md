@@ -6,3 +6,5 @@
 - [Descript](https://www.descript.com/)
 - [Auphonic](https://auphonic.com/)
 - [Cleanvoice](https://cleanvoice.ai/)
+- [Podcastle](https://podcastle.ai/)
+- [Sonix](https://sonix.ai/)
