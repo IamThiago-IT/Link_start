@@ -20,4 +20,4 @@
 
 ## Tradução Automática
 - [DeepL Translator](https://www.deepl.com/translator)
-- [Google Translate](https://translate.google.com/)
+
