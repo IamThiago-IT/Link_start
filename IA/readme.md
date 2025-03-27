@@ -21,3 +21,5 @@
 ## Tradução Automática
 - [DeepL Translator](https://www.deepl.com/translator)
 
+## Geração de Imgagem por documentos
+https://app.napkin.ai/signout
