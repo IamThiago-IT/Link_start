@@ -1,7 +1,6 @@
 # Area dev
 
-Scalar 
-mintlify
+Scalar  
+mintlify  
 
-
-https://mafs.dev/
+[mafs.dev](https://mafs.dev/)
