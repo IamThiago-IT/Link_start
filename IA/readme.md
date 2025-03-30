@@ -23,3 +23,9 @@
 
 ## Geração de Imgagem por documentos
 https://app.napkin.ai/signout
+
+
+---
+
+https://grok.com/
+
