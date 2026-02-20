@@ -219,14 +219,14 @@
 - [Travis CI](https://travis-ci.org/)
 - [GitLab CI/CD](https://docs.gitlab.com/ee/ci/)
 
-## 🌍 Aprendizado de Inglês
+## 🌍 Aprendizado de Idiomas
 - **Cursos e Plataformas:**
   - [Duolingo](https://www.duolingo.com/)
   - [BBC Learning English](https://www.bbc.co.uk/learningenglish)
   - [Memrise](https://www.memrise.com/)
-  - [Coursera - Cursos de Inglês](https://www.coursera.org/browse/language-learning/learning-english)
-  - [edX - Cursos de Inglês](https://www.edx.org/course/subject/english)
-  - [Udemy - Inglês](https://www.udemy.com/courses/search/?q=english)
+  - [Coursera - Cursos de Idiomas](https://www.coursera.org/browse/language-learning)
+  - [edX - Cursos de Idiomas](https://www.edx.org/course/subject/language)
+  - [Udemy - Idiomas](https://www.udemy.com/courses/search/?q=language)
   - [ABA English](https://www.abaenglish.com/)
   - [Rosetta Stone](https://www.rosettastone.com/)
   - [Open English](https://www.openenglish.com/)

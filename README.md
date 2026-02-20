@@ -36,7 +36,7 @@ O projeto está organizado em diretórios temáticos dentro da pasta `docs/`, fa
 Link_start/
 ├── docs/
 │   ├── dev/          # Conteúdos sobre Desenvolvimento (Backend, Mobile, Games)
-│   ├── english/      # Recursos para aprendizado de Inglês
+│   ├── languages/    # Recursos para aprendizado de Idiomas
 │   ├── ia/           # Ferramentas e artigos sobre Inteligência Artificial
 │   ├── podcast/      # Recomendações e ferramentas para Podcasts
 │   ├── saas/         # Software as a Service e Startups
@@ -53,7 +53,7 @@ Principais tópicos abordados neste repositório:
 - **Carreira**: Dicas de currículo, preparação para entrevistas e plataformas de emprego.
 - **Ferramentas**: IDEs, ferramentas de DevOps, Design e produtividade.
 - **Inteligência Artificial**: As melhores ferramentas de IA para geração de texto, imagem e código.
-- **Inglês**: Recursos para aprimorar o inglês técnico e conversação.
+- **Idiomas**: Recursos para aprimorar idiomas e conversação.
 
 > 💡 **Dica:** Explore o arquivo [`docs/index.md`](docs/index.md) para uma visão detalhada de todos os recursos.
 
