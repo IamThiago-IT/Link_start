@@ -1,4 +1,4 @@
-# IA
+# artificial intelligence
 
 ## Transcrição de Vídeo para Texto
 - [Restream](https://restream.io/)
@@ -9,6 +9,7 @@
 ## Geração de Texto
 - [ChatGPT](https://chat.openai.com/)
 - [Copy.ai](https://www.copy.ai/)
+[Grok](https://grok.com/)
 
 ## Análise de Dados
 - [IBM Watson](https://www.ibm.com/watson)
@@ -27,6 +28,6 @@ https://app.napkin.ai/signout
 
 ---
 
-https://grok.com/
+
 https://www.meta.ai
 https://skills.sh/
