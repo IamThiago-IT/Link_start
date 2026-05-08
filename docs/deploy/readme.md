@@ -30,4 +30,3 @@
 
 ---
 
-Se quiser, posso ajustar as categorias (por exemplo mover `Neon` para "Fullstack") ou adicionar/remover provedores. 
